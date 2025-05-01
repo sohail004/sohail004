@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sohail004
-- 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning Computer science 
-- 💞️ I’m looking to collaborate on Any ML project
-- 📫 How to reach me on sohailkarimkhugno@gmail.com
+- 👀 Data Engineer 
+- 🌱Quantum computing enthusiastic  
+- 💞️ I’m looking to collaborate on DE project 
+- 📫 How to reach me on sohailkarimkhugno@outlook.com
 
 <!---
 sohail004/sohail004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
